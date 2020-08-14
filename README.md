@@ -23,6 +23,6 @@ python run.py
 ```
 or
 ```
-python Run_app.py
+python run_app.py
 ```
 **check the script name in working directory.**
