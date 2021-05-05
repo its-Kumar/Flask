@@ -11,7 +11,10 @@ Implementing a simple website using *`flask`* , python and sql.
 Author : :sunglasses: [KUMAR SHANU](https://github.com/its-Kumar/)
 
 * [FlaskLibrary](FlaskLibrary)
+
 * [FlaskMarket](FlaskMarket)
+
+* [FlaskREST_API](FlaskREST_API)
 
 ---
 
